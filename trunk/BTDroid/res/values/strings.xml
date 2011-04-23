@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BTDroid</string>
+    <string name="about">BTDroid is a program under GNU GPL License</string>
+    <string name="connect">connect again</string>
+    <string name="dfound">No paired devices found</string>
+</resources>
