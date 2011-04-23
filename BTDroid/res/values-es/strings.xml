@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">BTDroid es un programa con licencia GNU GPL</string>
+    <string name="connect">Conectar de nuevo</string>
+    <string name="dfound">Ningun dispositivo previamente emparejado</string>
+</resources>

@@ -1,0 +1,18 @@
+--------------------------------------------------------------------------
+To execute BTDroidserver
+
+./BTDroidserver
+
+or
+
+python BTDroidServer
+--------------------------------------------------------------------------
+dependences
+pyhton,python-bluetooth,xdotool,bluez
+
+sudo apt-get install python-bluetooth xdotool
+--------------------------------------------------------------------------
+Icons from:
+http://kde-look.org/usermanager/search.php?username=Sephiroth6779
+http://kde-look.org/usermanager/search.php?username=InFeRnODeMoN
+http://www.openclipart.org/detail/130039
